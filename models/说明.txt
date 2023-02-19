@@ -1,0 +1,1 @@
+原本两个alphabets、alphabet_manwen文件路径在crnn.pytorch-master\下
